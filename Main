@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Beauty Salon</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Beauty Salon</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Our Services</h2>
+        <p>Experience the best beauty treatments in town.</p>
+    </section>
+
+    <section id="services">
+        <h2>Services</h2>
+        <ul>
+            <li>Haircuts</li>
+            <li>Hair Coloring</li>
+            <li>Hair Styling</li>
+            <li>Manicure</li>
+            <li>Pedicure</li>
+            <li>Makeup</li>
+            <li>Eyebrow Shaping</li>
+            <li>Eyebrow Tinting</li>
+            <li>Eyelash Extensions</li>
+            <li>Lash Lifts</li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a team of professional beauticians dedicated to making you look and feel your best.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@beautysalon.com</p>
+        <p>Phone: +123 456 7890</p>
+    </section>
+
+    <footer>
+        <p>© 2024 Beauty Salon. All rights reserved.</p>
+    </footer>
+</body>
+</html>
